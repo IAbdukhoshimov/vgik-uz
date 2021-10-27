@@ -1,0 +1,70 @@
+{
+  message: 'storage.news.create: finished with error: ValidationError: photo: Cast to Embedded failed for value "it is photo" (type string) at path "photo"',
+  level: 'error',
+  timestamp: '2021-10-26T04:53:01.693Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.create: finished with error: ValidationError: photo: Cast to Embedded failed for value "it is photo" (type string) at path "photo"',
+  level: 'error',
+  timestamp: '2021-10-26T04:53:39.332Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:00.257Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:04.141Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:05.336Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:14.627Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:15.578Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:16.259Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.delete: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T04:56:37.480Z',
+  label: 'vgik',
+  metadata: {}
+}
+{
+  message: 'storage.news.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-10-26T05:02:04.042Z',
+  label: 'vgik',
+  metadata: {}
+}
